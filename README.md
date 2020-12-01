@@ -3,7 +3,7 @@
 Add a brief description of this project here, in Markdown format.
 It will be shown on the main page of the project's GitHub repository.
 
-## Add demo dataset
+## Set package namespace
 
 To work on this project in a scratch org:
 
